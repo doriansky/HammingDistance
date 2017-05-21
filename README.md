@@ -25,7 +25,7 @@ found in the file are ignored
 -	Configure and generate
 - Open HammingTest.sln from %BUILD_PATH%
 - Set HammingTest as startup project. The application will start asking the user to enter the two binary strings and will
-output the Hamming distance between them.
+output the Hamming distance and the Hamming score between them.
 - Alternatively the application can be used by providing as command-line argument a path to text file which contains pairs of strings. An example of such input
 file can be found in the root directory of the package ("input.txt").
 
